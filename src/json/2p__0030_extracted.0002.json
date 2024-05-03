@@ -1,0 +1,899 @@
+{
+  "magic": 1684235811,
+  "count": 33,
+  "width": 20,
+  "height": 22,
+  "chrs": {
+    "0": {
+      "idxhexa": "0000",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": true,
+          "X": 0,
+          "Y": 0
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 0,
+        "Y": 0,
+        "Width": 12,
+        "Height": 22,
+        "Left": 0,
+        "Top": 0,
+        "Right": 12,
+        "Bottom": 22,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "0D750160"
+    },
+    "1": {
+      "idxhexa": "0001",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 20,
+          "Y": 0
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 20,
+        "Y": 0,
+        "Width": 12,
+        "Height": 22,
+        "Left": 20,
+        "Top": 0,
+        "Right": 32,
+        "Bottom": 22,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "7A8B75D1"
+    },
+    "2": {
+      "idxhexa": "0002",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 40,
+          "Y": 0
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 40,
+        "Y": 0,
+        "Width": 12,
+        "Height": 22,
+        "Left": 40,
+        "Top": 0,
+        "Right": 52,
+        "Bottom": 22,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "B9BE2578"
+    },
+    "3": {
+      "idxhexa": "0003",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 60,
+          "Y": 0
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 60,
+        "Y": 0,
+        "Width": 12,
+        "Height": 22,
+        "Left": 60,
+        "Top": 0,
+        "Right": 72,
+        "Bottom": 22,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "E15184F6"
+    },
+    "4": {
+      "idxhexa": "0004",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 80,
+          "Y": 0
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 80,
+        "Y": 0,
+        "Width": 12,
+        "Height": 22,
+        "Left": 80,
+        "Top": 0,
+        "Right": 92,
+        "Bottom": 22,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "B19BE339"
+    },
+    "5": {
+      "idxhexa": "0005",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 100,
+          "Y": 0
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 100,
+        "Y": 0,
+        "Width": 12,
+        "Height": 22,
+        "Left": 100,
+        "Top": 0,
+        "Right": 112,
+        "Bottom": 22,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "931B9864"
+    },
+    "6": {
+      "idxhexa": "0006",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 120,
+          "Y": 0
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 120,
+        "Y": 0,
+        "Width": 12,
+        "Height": 22,
+        "Left": 120,
+        "Top": 0,
+        "Right": 132,
+        "Bottom": 22,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "98916E1A"
+    },
+    "7": {
+      "idxhexa": "0007",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 140,
+          "Y": 0
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 140,
+        "Y": 0,
+        "Width": 12,
+        "Height": 22,
+        "Left": 140,
+        "Top": 0,
+        "Right": 152,
+        "Bottom": 22,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "0BA3C962"
+    },
+    "8": {
+      "idxhexa": "0008",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 160,
+          "Y": 0
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 160,
+        "Y": 0,
+        "Width": 12,
+        "Height": 22,
+        "Left": 160,
+        "Top": 0,
+        "Right": 172,
+        "Bottom": 22,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "A241A9E0"
+    },
+    "9": {
+      "idxhexa": "0009",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 180,
+          "Y": 0
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 180,
+        "Y": 0,
+        "Width": 12,
+        "Height": 22,
+        "Left": 180,
+        "Top": 0,
+        "Right": 192,
+        "Bottom": 22,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "D9678180"
+    },
+    "10": {
+      "idxhexa": "000A",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 200,
+          "Y": 0
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 200,
+        "Y": 0,
+        "Width": 12,
+        "Height": 22,
+        "Left": 200,
+        "Top": 0,
+        "Right": 212,
+        "Bottom": 22,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "633434CF"
+    },
+    "11": {
+      "idxhexa": "000B",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 220,
+          "Y": 0
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 220,
+        "Y": 0,
+        "Width": 12,
+        "Height": 22,
+        "Left": 220,
+        "Top": 0,
+        "Right": 232,
+        "Bottom": 22,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "FAE388B2"
+    },
+    "12": {
+      "idxhexa": "000C",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 0,
+          "Y": 22
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 0,
+        "Y": 22,
+        "Width": 12,
+        "Height": 22,
+        "Left": 0,
+        "Top": 22,
+        "Right": 12,
+        "Bottom": 44,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "E69A1828"
+    },
+    "13": {
+      "idxhexa": "000D",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 20,
+          "Y": 22
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 20,
+        "Y": 22,
+        "Width": 12,
+        "Height": 22,
+        "Left": 20,
+        "Top": 22,
+        "Right": 32,
+        "Bottom": 44,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "159E948D"
+    },
+    "14": {
+      "idxhexa": "000E",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 40,
+          "Y": 22
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 40,
+        "Y": 22,
+        "Width": 12,
+        "Height": 22,
+        "Left": 40,
+        "Top": 22,
+        "Right": 52,
+        "Bottom": 44,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "3AF56AF7"
+    },
+    "15": {
+      "idxhexa": "000F",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 60,
+          "Y": 22
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 60,
+        "Y": 22,
+        "Width": 12,
+        "Height": 22,
+        "Left": 60,
+        "Top": 22,
+        "Right": 72,
+        "Bottom": 44,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "1F0D4015"
+    },
+    "16": {
+      "idxhexa": "0010",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 80,
+          "Y": 22
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 80,
+        "Y": 22,
+        "Width": 12,
+        "Height": 22,
+        "Left": 80,
+        "Top": 22,
+        "Right": 92,
+        "Bottom": 44,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "544B0593"
+    },
+    "17": {
+      "idxhexa": "0011",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 100,
+          "Y": 22
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 100,
+        "Y": 22,
+        "Width": 12,
+        "Height": 22,
+        "Left": 100,
+        "Top": 22,
+        "Right": 112,
+        "Bottom": 44,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "979482E3"
+    },
+    "18": {
+      "idxhexa": "0012",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 120,
+          "Y": 22
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 12,
+          "Height": 22
+        },
+        "X": 120,
+        "Y": 22,
+        "Width": 12,
+        "Height": 22,
+        "Left": 120,
+        "Top": 22,
+        "Right": 132,
+        "Bottom": 44,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "F373562D"
+    },
+    "19": {
+      "idxhexa": "0013",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 140,
+          "Y": 22
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 20,
+          "Height": 22
+        },
+        "X": 140,
+        "Y": 22,
+        "Width": 20,
+        "Height": 22,
+        "Left": 140,
+        "Top": 22,
+        "Right": 160,
+        "Bottom": 44,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "CED3DA65"
+    },
+    "20": {
+      "idxhexa": "0014",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 160,
+          "Y": 22
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 20,
+          "Height": 22
+        },
+        "X": 160,
+        "Y": 22,
+        "Width": 20,
+        "Height": 22,
+        "Left": 160,
+        "Top": 22,
+        "Right": 180,
+        "Bottom": 44,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "152D7822"
+    },
+    "21": {
+      "idxhexa": "0015",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 180,
+          "Y": 22
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 20,
+          "Height": 22
+        },
+        "X": 180,
+        "Y": 22,
+        "Width": 20,
+        "Height": 22,
+        "Left": 180,
+        "Top": 22,
+        "Right": 200,
+        "Bottom": 44,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "64A32F6B"
+    },
+    "22": {
+      "idxhexa": "0016",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 200,
+          "Y": 22
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 20,
+          "Height": 22
+        },
+        "X": 200,
+        "Y": 22,
+        "Width": 20,
+        "Height": 22,
+        "Left": 200,
+        "Top": 22,
+        "Right": 220,
+        "Bottom": 44,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "AA4BC55B"
+    },
+    "23": {
+      "idxhexa": "0017",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 220,
+          "Y": 22
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 20,
+          "Height": 22
+        },
+        "X": 220,
+        "Y": 22,
+        "Width": 20,
+        "Height": 22,
+        "Left": 220,
+        "Top": 22,
+        "Right": 240,
+        "Bottom": 44,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "D63C9841"
+    },
+    "24": {
+      "idxhexa": "0018",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 0,
+          "Y": 44
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 20,
+          "Height": 22
+        },
+        "X": 0,
+        "Y": 44,
+        "Width": 20,
+        "Height": 22,
+        "Left": 0,
+        "Top": 44,
+        "Right": 20,
+        "Bottom": 66,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "19B48AF5"
+    },
+    "25": {
+      "idxhexa": "0019",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 20,
+          "Y": 44
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 20,
+          "Height": 22
+        },
+        "X": 20,
+        "Y": 44,
+        "Width": 20,
+        "Height": 22,
+        "Left": 20,
+        "Top": 44,
+        "Right": 40,
+        "Bottom": 66,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "6875B16B"
+    },
+    "26": {
+      "idxhexa": "001A",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 40,
+          "Y": 44
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 20,
+          "Height": 22
+        },
+        "X": 40,
+        "Y": 44,
+        "Width": 20,
+        "Height": 22,
+        "Left": 40,
+        "Top": 44,
+        "Right": 60,
+        "Bottom": 66,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "63AC94CE"
+    },
+    "27": {
+      "idxhexa": "001B",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 60,
+          "Y": 44
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 20,
+          "Height": 22
+        },
+        "X": 60,
+        "Y": 44,
+        "Width": 20,
+        "Height": 22,
+        "Left": 60,
+        "Top": 44,
+        "Right": 80,
+        "Bottom": 66,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "BDEB420F"
+    },
+    "28": {
+      "idxhexa": "001C",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 80,
+          "Y": 44
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 20,
+          "Height": 22
+        },
+        "X": 80,
+        "Y": 44,
+        "Width": 20,
+        "Height": 22,
+        "Left": 80,
+        "Top": 44,
+        "Right": 100,
+        "Bottom": 66,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "1FC4EBB7"
+    },
+    "29": {
+      "idxhexa": "001D",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 100,
+          "Y": 44
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 20,
+          "Height": 22
+        },
+        "X": 100,
+        "Y": 44,
+        "Width": 20,
+        "Height": 22,
+        "Left": 100,
+        "Top": 44,
+        "Right": 120,
+        "Bottom": 66,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "7FAF7349"
+    },
+    "30": {
+      "idxhexa": "001E",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 120,
+          "Y": 44
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 20,
+          "Height": 22
+        },
+        "X": 120,
+        "Y": 44,
+        "Width": 20,
+        "Height": 22,
+        "Left": 120,
+        "Top": 44,
+        "Right": 140,
+        "Bottom": 66,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "396BF377"
+    },
+    "31": {
+      "idxhexa": "001F",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 140,
+          "Y": 44
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 20,
+          "Height": 22
+        },
+        "X": 140,
+        "Y": 44,
+        "Width": 20,
+        "Height": 22,
+        "Left": 140,
+        "Top": 44,
+        "Right": 160,
+        "Bottom": 66,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "A87AEE52"
+    },
+    "32": {
+      "idxhexa": "0020",
+      "location": 0,
+      "rect": {
+        "Location": {
+          "IsEmpty": false,
+          "X": 160,
+          "Y": 44
+        },
+        "Size": {
+          "IsEmpty": false,
+          "Width": 20,
+          "Height": 22
+        },
+        "X": 160,
+        "Y": 44,
+        "Width": 20,
+        "Height": 22,
+        "Left": 160,
+        "Top": 44,
+        "Right": 180,
+        "Bottom": 66,
+        "IsEmpty": false
+      },
+      "chr": "",
+      "crc32": "9FB58B5A"
+    }
+  }
+}
